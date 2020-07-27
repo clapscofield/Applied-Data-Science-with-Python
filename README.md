@@ -1,2 +1,2 @@
 # Applied-Data-Science-with-Python
-Coursera University of Michigan
+Repository for Coursera specialization Applied Data Science with Python by University of Michigan
